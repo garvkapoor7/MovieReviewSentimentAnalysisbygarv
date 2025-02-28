@@ -9,3 +9,4 @@ joblib==1.2.0
 streamlit==1.20.0
 wordcloud
 regex
+pickle5
